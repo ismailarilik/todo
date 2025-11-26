@@ -33,3 +33,9 @@ My to-do list
 ### archlinux/ideas
 
 - [ ] https://gitlab.archlinux.org/archlinux/ideas/-/issues/2
+
+### archlinux/neoasknot
+
+- [ ] https://gitlab.archlinux.org/archlinux/neoasknot/-/issues/2
+- [ ] https://gitlab.archlinux.org/archlinux/neoasknot/-/issues/8
+- [ ] https://gitlab.archlinux.org/archlinux/neoasknot/-/issues/11
