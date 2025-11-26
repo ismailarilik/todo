@@ -58,3 +58,9 @@ My to-do list
 ### archlinux/service-agreements
 
 - [ ] https://gitlab.archlinux.org/archlinux/service-agreements/-/issues/4
+
+## Read
+
+### Ruby_on_Rails
+
+- [ ] https://rubyonrails.org/
