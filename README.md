@@ -15,3 +15,13 @@ My to-do list
 ### archwiki
 
 - [ ] https://gitlab.archlinux.org/archlinux/archwiki/-/issues/76
+
+### bumpbuddy
+
+- [ ] https://gitlab.archlinux.org/archlinux/bumpbuddy/-/issues/3
+- [ ] https://gitlab.archlinux.org/archlinux/bumpbuddy/-/issues/6
+- [ ] https://gitlab.archlinux.org/archlinux/bumpbuddy/-/issues/9
+- [ ] https://gitlab.archlinux.org/archlinux/bumpbuddy/-/issues/10
+- [ ] https://gitlab.archlinux.org/archlinux/bumpbuddy/-/issues/25
+- [ ] https://gitlab.archlinux.org/archlinux/bumpbuddy/-/issues/27
+- [ ] https://gitlab.archlinux.org/archlinux/bumpbuddy/-/issues/29
