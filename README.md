@@ -39,3 +39,12 @@ My to-do list
 - [ ] https://gitlab.archlinux.org/archlinux/neoasknot/-/issues/2
 - [ ] https://gitlab.archlinux.org/archlinux/neoasknot/-/issues/8
 - [ ] https://gitlab.archlinux.org/archlinux/neoasknot/-/issues/11
+
+### archlinux/rebuilderd-website
+
+- [ ] https://gitlab.archlinux.org/archlinux/rebuilderd-website/-/issues/5
+- [ ] https://gitlab.archlinux.org/archlinux/rebuilderd-website/-/issues/7
+- [ ] https://gitlab.archlinux.org/archlinux/rebuilderd-website/-/issues/8
+- [ ] https://gitlab.archlinux.org/archlinux/rebuilderd-website/-/issues/9
+- [ ] https://gitlab.archlinux.org/archlinux/rebuilderd-website/-/issues/10
+- [ ] https://gitlab.archlinux.org/archlinux/rebuilderd-website/-/issues/11
