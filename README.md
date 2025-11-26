@@ -3,7 +3,7 @@ My to-do list
 
 ## Issues
 
-### archlinux-common-style
+### archlinux/archlinux-common-style
 
 - [ ] https://gitlab.archlinux.org/archlinux/archlinux-common-style/-/issues/2
 - [ ] https://gitlab.archlinux.org/archlinux/archlinux-common-style/-/issues/5
@@ -12,11 +12,11 @@ My to-do list
 - [ ] https://gitlab.archlinux.org/archlinux/archlinux-common-style/-/issues/8
 - [ ] https://gitlab.archlinux.org/archlinux/archlinux-common-style/-/issues/9
 
-### archwiki
+### archlinux/archwiki
 
 - [ ] https://gitlab.archlinux.org/archlinux/archwiki/-/issues/76
 
-### bumpbuddy
+### archlinux/bumpbuddy
 
 - [ ] https://gitlab.archlinux.org/archlinux/bumpbuddy/-/issues/3
 - [ ] https://gitlab.archlinux.org/archlinux/bumpbuddy/-/issues/6
@@ -26,6 +26,10 @@ My to-do list
 - [ ] https://gitlab.archlinux.org/archlinux/bumpbuddy/-/issues/27
 - [ ] https://gitlab.archlinux.org/archlinux/bumpbuddy/-/issues/29
 
-### devblog
+### archlinux/devblog
 
 - [ ] https://gitlab.archlinux.org/archlinux/devblog/-/issues/2
+
+### archlinux/ideas
+
+- [ ] https://gitlab.archlinux.org/archlinux/ideas/-/issues/2
