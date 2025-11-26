@@ -48,3 +48,9 @@ My to-do list
 - [ ] https://gitlab.archlinux.org/archlinux/rebuilderd-website/-/issues/9
 - [ ] https://gitlab.archlinux.org/archlinux/rebuilderd-website/-/issues/10
 - [ ] https://gitlab.archlinux.org/archlinux/rebuilderd-website/-/issues/11
+
+### archlinux/rfcs
+
+- [ ] https://gitlab.archlinux.org/archlinux/rfcs/-/issues/4
+- [ ] https://gitlab.archlinux.org/archlinux/rfcs/-/issues/7
+- [ ] https://gitlab.archlinux.org/archlinux/rfcs/-/issues/9
