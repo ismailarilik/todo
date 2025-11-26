@@ -54,3 +54,7 @@ My to-do list
 - [ ] https://gitlab.archlinux.org/archlinux/rfcs/-/issues/4
 - [ ] https://gitlab.archlinux.org/archlinux/rfcs/-/issues/7
 - [ ] https://gitlab.archlinux.org/archlinux/rfcs/-/issues/9
+
+### archlinux/service-agreements
+
+- [ ] https://gitlab.archlinux.org/archlinux/service-agreements/-/issues/4
