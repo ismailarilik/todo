@@ -25,3 +25,7 @@ My to-do list
 - [ ] https://gitlab.archlinux.org/archlinux/bumpbuddy/-/issues/25
 - [ ] https://gitlab.archlinux.org/archlinux/bumpbuddy/-/issues/27
 - [ ] https://gitlab.archlinux.org/archlinux/bumpbuddy/-/issues/29
+
+### devblog
+
+- [ ] https://gitlab.archlinux.org/archlinux/devblog/-/issues/2
