@@ -61,6 +61,11 @@ My to-do list
 
 ## Read
 
-### Ruby_on_Rails
+### Ruby on Rails
 
 - [ ] https://rubyonrails.org/
+
+### Zsh
+
+- [ ] https://man.archlinux.org/man/zsh-lovers.1
+- [ ] https://www.zsh.org/
