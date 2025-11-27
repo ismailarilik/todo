@@ -88,6 +88,10 @@ My to-do list
 
 - [ ] https://go.dev/
 
+### Perl
+
+- [ ] https://www.perl.org/
+
 ### Ruby on Rails
 
 - [ ] https://rubyonrails.org/
