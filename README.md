@@ -104,6 +104,10 @@ My to-do list
 
 - [ ] https://rubyonrails.org/
 
+### Rust
+
+- [ ] https://rust-lang.org/
+
 ### Zsh
 
 - [ ] https://man.archlinux.org/man/zsh-lovers.1
