@@ -69,6 +69,11 @@ My to-do list
 
 - [ ] https://gitlab.archlinux.org/archlinux/service-agreements/-/issues/4
 
+### archlinux-de/pkgstats.archlinux.de
+
+- [ ] https://github.com/archlinux-de/pkgstats.archlinux.de/issues/71
+- [ ] https://github.com/archlinux-de/pkgstats.archlinux.de/issues/86
+
 ## Read
 
 ### AWK
