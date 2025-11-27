@@ -126,5 +126,4 @@ My to-do list
 
 ### Zsh
 
-- [ ] https://man.archlinux.org/man/zsh-lovers.1
 - [ ] https://www.zsh.org/
