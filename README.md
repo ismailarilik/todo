@@ -12,6 +12,16 @@ My to-do list
 - [ ] https://gitlab.archlinux.org/archlinux/archlinux-common-style/-/issues/8
 - [ ] https://gitlab.archlinux.org/archlinux/archlinux-common-style/-/issues/9
 
+### archlinux/archweb
+
+- [ ] https://github.com/archlinux/archweb/issues/461
+- [ ] https://github.com/archlinux/archweb/issues/470
+- [ ] https://github.com/archlinux/archweb/issues/540
+- [ ] https://github.com/archlinux/archweb/issues/556
+- [ ] https://github.com/archlinux/archweb/issues/567
+- [ ] https://github.com/archlinux/archweb/issues/573
+- [ ] https://github.com/archlinux/archweb/issues/586
+
 ### archlinux/archwiki
 
 - [ ] https://gitlab.archlinux.org/archlinux/archwiki/-/issues/76
