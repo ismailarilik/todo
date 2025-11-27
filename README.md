@@ -92,6 +92,10 @@ My to-do list
 
 - [ ] https://www.perl.org/
 
+### Python
+
+- [ ] https://www.python.org/
+
 ### Ruby on Rails
 
 - [ ] https://rubyonrails.org/
