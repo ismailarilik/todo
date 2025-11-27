@@ -65,6 +65,10 @@ My to-do list
 
 - [ ] https://www.gnu.org/software/gawk/
 
+### C
+
+- [ ] https://www.c-language.org/
+
 ### Ruby on Rails
 
 - [ ] https://rubyonrails.org/
