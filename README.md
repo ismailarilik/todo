@@ -61,6 +61,10 @@ My to-do list
 
 ## Read
 
+### AWK
+
+- [ ] https://www.gnu.org/software/gawk/
+
 ### Ruby on Rails
 
 - [ ] https://rubyonrails.org/
