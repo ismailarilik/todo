@@ -96,6 +96,10 @@ My to-do list
 
 - [ ] https://www.python.org/
 
+### Raku
+
+- [ ] https://raku.org/
+
 ### Ruby
 
 - [ ] https://www.ruby-lang.org
