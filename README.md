@@ -88,6 +88,10 @@ My to-do list
 
 - [ ] https://go.dev/
 
+### Haskell
+
+- [ ] https://www.haskell.org/
+
 ### Perl
 
 - [ ] https://www.perl.org/
