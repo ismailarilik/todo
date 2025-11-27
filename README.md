@@ -112,6 +112,10 @@ My to-do list
 
 - [ ] https://rust-lang.org/
 
+### Web
+
+- [ ] https://developer.mozilla.org
+
 ### Zig
 
 - [ ] https://ziglang.org/
