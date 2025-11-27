@@ -108,6 +108,10 @@ My to-do list
 
 - [ ] https://rust-lang.org/
 
+### Zig
+
+- [ ] https://ziglang.org/
+
 ### Zsh
 
 - [ ] https://man.archlinux.org/man/zsh-lovers.1
