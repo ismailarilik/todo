@@ -69,6 +69,10 @@ My to-do list
 
 - [ ] https://www.c-language.org/
 
+### Go
+
+- [ ] https://go.dev/
+
 ### Ruby on Rails
 
 - [ ] https://rubyonrails.org/
