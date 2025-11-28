@@ -84,6 +84,10 @@ My to-do list
 
 - [ ] https://www.c-language.org/
 
+### Emacs
+
+- [ ] https://www.gnu.org/software/emacs/
+
 ### Go
 
 - [ ] https://go.dev/
