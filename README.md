@@ -88,6 +88,10 @@ My to-do list
 
 - [ ] https://www.gnu.org/software/emacs/
 
+### Git
+
+- [ ] https://git-scm.com/
+
 ### Go
 
 - [ ] https://go.dev/
