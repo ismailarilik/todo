@@ -136,6 +136,10 @@ My to-do list
 
 - [ ] https://rust-lang.org/
 
+### SDL
+
+- [ ] https://www.libsdl.org/
+
 ### Web
 
 - [ ] https://developer.mozilla.org
