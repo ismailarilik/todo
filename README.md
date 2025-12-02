@@ -74,10 +74,6 @@ My to-do list
 - [ ] https://github.com/archlinux-de/pkgstats.archlinux.de/issues/71
 - [ ] https://github.com/archlinux-de/pkgstats.archlinux.de/issues/86
 
-### lahwaacz/wiki-scripts
-
-- [ ] https://github.com/lahwaacz/wiki-scripts/issues/101
-
 ## Read
 
 ### Android
