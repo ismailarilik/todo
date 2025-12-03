@@ -104,6 +104,10 @@ My to-do list
 
 - [ ] https://go.dev/
 
+### Grep
+
+- [ ] https://www.gnu.org/software/grep
+
 ### GTK
 
 - [ ] https://www.gtk.org/
@@ -135,6 +139,10 @@ My to-do list
 ### Rust
 
 - [ ] https://rust-lang.org/
+
+### sed
+
+- [ ] https://www.gnu.org/software/sed
 
 ### SDL
 
