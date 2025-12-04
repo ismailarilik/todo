@@ -116,6 +116,10 @@ My to-do list
 
 - [ ] https://www.haskell.org/
 
+### Jekyll
+
+- [ ] https://jekyllrb.com/
+
 ### Kernel
 
 - [ ] https://kernel.org/
