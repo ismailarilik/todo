@@ -116,6 +116,10 @@ My to-do list
 
 - [ ] https://www.haskell.org/
 
+### Kernel
+
+- [ ] https://kernel.org/
+
 ### Perl
 
 - [ ] https://www.perl.org/
