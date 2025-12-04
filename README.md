@@ -116,6 +116,10 @@ My to-do list
 
 - [ ] https://www.haskell.org/
 
+### Inkscape
+
+- [ ] https://inkscape.org/
+
 ### Jekyll
 
 - [ ] https://jekyllrb.com/
