@@ -88,6 +88,10 @@ My to-do list
 
 - [ ] https://www.gnu.org/software/gawk/
 
+### Blender
+
+- [ ] https://www.blender.org/
+
 ### C
 
 - [ ] https://www.c-language.org/
