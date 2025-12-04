@@ -100,6 +100,10 @@ My to-do list
 
 - [ ] https://www.gnu.org/software/emacs/
 
+### FreeCAD
+
+- [ ] https://freecad.org
+
 ### Git
 
 - [ ] https://git-scm.com/
