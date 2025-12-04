@@ -164,6 +164,10 @@ My to-do list
 
 - [ ] https://ziglang.org/
 
+### Zola
+
+- [ ] https://www.getzola.org/
+
 ### Zsh
 
 - [ ] https://www.zsh.org/
