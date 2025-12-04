@@ -132,6 +132,10 @@ My to-do list
 
 - [ ] https://kernel.org/
 
+### Klavaro
+
+- [ ] https://klavaro.sourceforge.io
+
 ### Perl
 
 - [ ] https://www.perl.org/
