@@ -144,6 +144,10 @@ My to-do list
 
 - [ ] https://www.perl.org/
 
+### Pi-hole
+
+- [ ] https://pi-hole.net
+
 ### Python
 
 - [ ] https://www.python.org/
@@ -155,6 +159,10 @@ My to-do list
 ### Raku
 
 - [ ] https://raku.org/
+
+### Raspberry Pi
+
+- [ ] https://www.raspberrypi.com
 
 ### Ruby
 
