@@ -27,9 +27,9 @@
 - [x] https://archlinux.org/people/package-maintainer-fellows/
 - [x] https://archlinux.org/people/support-staff-fellows/
 - [x] https://archlinux.org/master-keys/
-- [ ] https://archlinux.org/art/
-- [ ] https://archlinux.org/news/
-- [ ] https://archlinux.org/feeds/
+- [x] https://archlinux.org/art/
+- [x] https://archlinux.org/news/
+- [x] https://archlinux.org/feeds/
 - [ ] https://archlinux.org/packages/
 - [ ] https://bbs.archlinux.org/
 - [ ] https://wiki.archlinux.org/
