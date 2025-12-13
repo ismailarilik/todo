@@ -7,9 +7,9 @@
 - [ ] https://man.archlinux.org/
 - [x] https://lists.archlinux.org/
 - [x] https://archlinux.org/planet/
-- [ ] https://archlinux.org/donate/
-- [ ] https://www.freewear.org/Archlinux
-- [ ] https://www.hellotux.com/arch
+- [x] https://archlinux.org/donate/
+- [x] https://www.freewear.org/Archlinux
+- [x] https://www.hellotux.com/arch
 - [ ] https://archlinux.org/mirrorlist/
 - [ ] https://archlinux.org/mirrors/
 - [ ] https://archlinux.org/mirrors/status/
