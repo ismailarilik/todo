@@ -2,8 +2,8 @@
 
 ## Arch Linux
 
-- [ ] https://archlinux.org/
-- [ ] https://archlinux.org/about/
+- [x] https://archlinux.org/
+- [x] https://archlinux.org/about/
 - [ ] https://man.archlinux.org/
 - [ ] https://lists.archlinux.org/
 - [ ] https://archlinux.org/planet/
