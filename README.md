@@ -6,14 +6,14 @@
 - [x] https://archlinux.org/about/
 - [ ] https://man.archlinux.org/
 - [x] https://lists.archlinux.org/
-- [ ] https://archlinux.org/planet/
+- [x] https://archlinux.org/planet/
 - [ ] https://archlinux.org/donate/
 - [ ] https://www.freewear.org/Archlinux
 - [ ] https://www.hellotux.com/arch
 - [ ] https://archlinux.org/mirrorlist/
 - [ ] https://archlinux.org/mirrors/
 - [ ] https://archlinux.org/mirrors/status/
-- [ ] https://devblog.archlinux.page/
+- [x] https://devblog.archlinux.page/
 - [ ] https://wiki.archlinux.org/title/Category:DeveloperWiki
 - [ ] https://archlinux.org/groups/
 - [ ] https://archlinux.org/todo/
