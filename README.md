@@ -30,7 +30,7 @@
 - [x] https://archlinux.org/art/
 - [x] https://archlinux.org/news/
 - [x] https://archlinux.org/feeds/
-- [ ] https://archlinux.org/packages/
+- [x] https://archlinux.org/packages/
 - [ ] https://bbs.archlinux.org/
 - [ ] https://wiki.archlinux.org/
 - [ ] https://gitlab.archlinux.org/archlinux
