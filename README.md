@@ -4,7 +4,7 @@
 
 - [x] https://archlinux.org/
 - [x] https://archlinux.org/about/
-- [ ] https://man.archlinux.org/
+- [x] https://man.archlinux.org/
 - [x] https://lists.archlinux.org/
 - [x] https://archlinux.org/planet/
 - [x] https://archlinux.org/donate/
