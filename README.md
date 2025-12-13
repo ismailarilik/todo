@@ -15,11 +15,11 @@
 - [x] https://archlinux.org/mirrors/status/
 - [x] https://devblog.archlinux.page/
 - [ ] https://wiki.archlinux.org/title/Category:DeveloperWiki
-- [ ] https://archlinux.org/groups/
-- [ ] https://archlinux.org/todo/
-- [ ] https://archlinux.org/releng/releases/
-- [ ] https://archlinux.org/visualize/
-- [ ] https://archlinux.org/packages/differences/
+- [x] https://archlinux.org/groups/
+- [x] https://archlinux.org/todo/
+- [x] https://archlinux.org/releng/releases/
+- [x] https://archlinux.org/visualize/
+- [x] https://archlinux.org/packages/differences/
 - [ ] https://archlinux.org/people/developers/
 - [ ] https://archlinux.org/people/package-maintainers/
 - [ ] https://archlinux.org/people/support-staff/
