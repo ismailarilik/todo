@@ -20,13 +20,13 @@
 - [x] https://archlinux.org/releng/releases/
 - [x] https://archlinux.org/visualize/
 - [x] https://archlinux.org/packages/differences/
-- [ ] https://archlinux.org/people/developers/
-- [ ] https://archlinux.org/people/package-maintainers/
-- [ ] https://archlinux.org/people/support-staff/
-- [ ] https://archlinux.org/people/developer-fellows/
-- [ ] https://archlinux.org/people/package-maintainer-fellows/
-- [ ] https://archlinux.org/people/support-staff-fellows/
-- [ ] https://archlinux.org/master-keys/
+- [x] https://archlinux.org/people/developers/
+- [x] https://archlinux.org/people/package-maintainers/
+- [x] https://archlinux.org/people/support-staff/
+- [x] https://archlinux.org/people/developer-fellows/
+- [x] https://archlinux.org/people/package-maintainer-fellows/
+- [x] https://archlinux.org/people/support-staff-fellows/
+- [x] https://archlinux.org/master-keys/
 - [ ] https://archlinux.org/art/
 - [ ] https://archlinux.org/news/
 - [ ] https://archlinux.org/feeds/
