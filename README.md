@@ -10,9 +10,9 @@
 - [x] https://archlinux.org/donate/
 - [x] https://www.freewear.org/Archlinux
 - [x] https://www.hellotux.com/arch
-- [ ] https://archlinux.org/mirrorlist/
-- [ ] https://archlinux.org/mirrors/
-- [ ] https://archlinux.org/mirrors/status/
+- [x] https://archlinux.org/mirrorlist/
+- [x] https://archlinux.org/mirrors/
+- [x] https://archlinux.org/mirrors/status/
 - [x] https://devblog.archlinux.page/
 - [ ] https://wiki.archlinux.org/title/Category:DeveloperWiki
 - [ ] https://archlinux.org/groups/
