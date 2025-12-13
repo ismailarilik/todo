@@ -36,4 +36,4 @@
 - [ ] https://gitlab.archlinux.org/archlinux
 - [x] https://security.archlinux.org/
 - [x] https://aur.archlinux.org/
-- [ ] https://archlinux.org/download/
+- [x] https://archlinux.org/download/
