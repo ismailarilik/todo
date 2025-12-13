@@ -34,6 +34,6 @@
 - [ ] https://bbs.archlinux.org/
 - [ ] https://wiki.archlinux.org/
 - [ ] https://gitlab.archlinux.org/archlinux
-- [ ] https://security.archlinux.org/
+- [x] https://security.archlinux.org/
 - [ ] https://aur.archlinux.org/
 - [ ] https://archlinux.org/download/
