@@ -14,4 +14,5 @@
 - https://wiki.archlinux.org/title/Getting_involved#Software_projects
 - https://wiki.archlinux.org/title/Go
 - https://wiki.archlinux.org/title/Haskell
+- https://wiki.archlinux.org/title/Perl
 - https://wiki.archlinux.org/title/Ruby_on_Rails
