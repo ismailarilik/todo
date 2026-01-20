@@ -17,4 +17,5 @@
 - https://wiki.archlinux.org/title/Haskell
 - https://wiki.archlinux.org/title/Perl
 - https://wiki.archlinux.org/title/Python
+- https://wiki.archlinux.org/title/Ruby
 - https://wiki.archlinux.org/title/Ruby_on_Rails
