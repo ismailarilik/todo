@@ -10,6 +10,7 @@
 - https://kicad.org
 - https://klavaro.sourceforge.io
 - https://pytorch.org
+- https://raku.org
 - https://tipp10.com
 - https://wiki.archlinux.org/title/Getting_involved#Software_projects
 - https://wiki.archlinux.org/title/Go
