@@ -9,3 +9,4 @@
 - https://klavaro.sourceforge.io
 - https://pytorch.org/
 - https://tipp10.com
+- https://wiki.archlinux.org/title/Getting_involved#Software_projects
