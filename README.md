@@ -5,3 +5,4 @@
 - https://gohugo.io/
 - https://inkscape.org/
 - https://jekyllrb.com/
+- https://kicad.org
