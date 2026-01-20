@@ -10,3 +10,4 @@
 - https://pytorch.org/
 - https://tipp10.com
 - https://wiki.archlinux.org/title/Getting_involved#Software_projects
+- https://wiki.archlinux.org/title/Ruby_on_Rails
