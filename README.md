@@ -22,6 +22,7 @@
 - https://wiki.archlinux.org/title/Arduino
 - https://wiki.archlinux.org/title/Getting_involved#Software_projects
 - https://wiki.archlinux.org/title/Go
+- https://wiki.archlinux.org/title/Godot_Engine
 - https://wiki.archlinux.org/title/GTK
 - https://wiki.archlinux.org/title/Haskell
 - https://wiki.archlinux.org/title/Perl
