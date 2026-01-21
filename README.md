@@ -3,6 +3,7 @@
 - https://c-language.org
 - https://freecad.org
 - https://getzola.org
+- https://git-scm.com
 - https://gnu.org/software/emacs
 - https://gnu.org/software/gawk
 - https://gohugo.io
