@@ -51,7 +51,6 @@
 ## Programs
 
 - https://klavaro.sourceforge.io
-- https://tipp10.com
 
 ## Static site generators
 
