@@ -25,4 +25,5 @@
 - https://wiki.archlinux.org/title/Ruby
 - https://wiki.archlinux.org/title/Ruby_on_Rails
 - https://wiki.archlinux.org/title/Rust
+- https://wiki.archlinux.org/title/SDL
 - https://wiki.archlinux.org/title/Zig
