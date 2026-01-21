@@ -1,6 +1,7 @@
 # todo
 
 - https://c-language.org
+- https://developer.mozilla.org
 - https://freecad.org
 - https://getzola.org
 - https://git-scm.com
