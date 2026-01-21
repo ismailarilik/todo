@@ -11,6 +11,7 @@
 - https://gohugo.io
 - https://inkscape.org
 - https://jekyllrb.com
+- https://kernel.org
 - https://kicad.org
 - https://klavaro.sourceforge.io
 - https://pytorch.org
