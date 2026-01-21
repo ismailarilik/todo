@@ -10,7 +10,7 @@
 - https://inkscape.org
 - https://kicad.org
 - https://wiki.archlinux.org/title/Blender
-https://wiki.archlinux.org/title/GIMP
+- https://wiki.archlinux.org/title/GIMP
 
 ## Development
 
