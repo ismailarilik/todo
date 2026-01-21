@@ -6,6 +6,8 @@
 - https://git-scm.com
 - https://gnu.org/software/emacs
 - https://gnu.org/software/gawk
+- https://gnu.org/software/grep
+- https://gnu.org/software/sed
 - https://gohugo.io
 - https://inkscape.org
 - https://jekyllrb.com
