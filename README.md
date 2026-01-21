@@ -16,6 +16,7 @@
 - https://tipp10.com
 - https://wiki.archlinux.org/title/Getting_involved#Software_projects
 - https://wiki.archlinux.org/title/Go
+- https://wiki.archlinux.org/title/GTK
 - https://wiki.archlinux.org/title/Haskell
 - https://wiki.archlinux.org/title/Perl
 - https://wiki.archlinux.org/title/Python
